@@ -149,3 +149,326 @@ ID,Chinese,Pinyin,English
 148,昨天,zuótiān,yesterday
 149,做,zuò,do/make
 150,坐,zuò,sit
+151,门,mén,door
+152,帮助,bāngzhù,help
+153,黑,hēi,black
+154,白,bái,white
+155,红,hóng,red
+156,宾馆,bīnguǎn,hotel
+157,公共汽车,gōnggòng qìchē,bus
+158,火车站,huǒchēzhàn,train station
+159,飞机,fēijī,airplane
+160,机场,jīchǎng,airport
+161,介绍,jièshào,introduce
+162,教室,jiàoshì,classroom
+163,房间,fángjiān,room
+164,公司,gōngsī,company
+165,课,kè,class; lesson
+166,考试,kǎoshì,exam
+167,踢足球,tī zúqiú,play soccer
+168,游泳,yóuyǒng,swim
+169,跑步,pǎobù,run
+170,跳舞,tiàowǔ,dance
+171,运动,yùndòng,sport
+172,身体,shēntǐ,body
+173,眼睛,yǎnjing,eye
+174,生病,shēngbìng,get sick
+175,药,yào,medicine
+176,休息,xiūxi,rest
+177,牛奶,niúnǎi,milk
+178,羊肉,yángròu,mutton
+179,面条,miàntiáo,noodles
+180,鸡蛋,jīdàn,egg
+181,咖啡,kāfēi,coffee
+182,手机,shǒujī,cell phone
+183,手表,shǒubiǎo,watch
+184,颜色,yánsè,color
+185,贵,guì,expensive
+186,便宜,piányi,cheap
+187,卖,mài,sell
+188,送,sòng,deliver; give
+189,穿,chuān,wear
+190,姓,xìng,surname
+191,希望,xīwàng,hope
+192,意思,yìsi,meaning
+193,题,tí,question
+194,问题,wèntí,problem
+195,服务员,fúwùyuán,waiter
+196,晴,qíng,sunny
+197,雪,xuě,snow
+198,慢,màn,slow
+199,快,kuài,fast
+200,忙,máng,busy
+201,累,lèi,tired
+202,完,wán,finish
+203,让,ràng,let
+204,告诉,gàosu,tell
+205,懂,dǒng,understand
+206,知道,zhīdào,know
+207,准备,zhǔnbèi,prepare
+208,觉得,juéde,feel
+209,可能,kěnéng,maybe
+210,可以,kěyǐ,can
+211,要,yào,want
+212,一起,yìqǐ,together
+213,正在,zhèngzài,in the middle of
+214,已经,yǐjīng,already
+215,因为,yīnwèi,because
+216,所以,suǒyǐ,so
+217,虽然,suīrán,although
+218,但是,dànshì,but
+219,比较,bǐjiào,compare
+220,比,bǐ,than
+221,长,cháng,long
+222,远,yuǎn,far
+223,近,jìn,near
+224,高,gāo,tall
+225,矮,ǎi,short (height)
+226,胖,pàng,fat
+227,瘦,shòu,thin
+228,快乐,kuàilè,happy
+229,对,duì,right
+230,错,cuò,wrong
+231,一样,yíyàng,same
+232,左边,zuǒbian,left side
+233,右边,yòubian,right side
+234,旁边,pángbiān,beside
+235,外面,wàimiàn,outside
+236,时间,shíjiān,time
+237,小时,xiǎoshí,hour
+238,早上,zǎoshang,morning
+239,晚上,wǎnshang,evening
+240,起床,qǐchuáng,get up
+241,上班,shàngbān,go to work
+242,上,shàng,up
+243,下,xià,down
+244,进,jìn,enter
+245,出,chū,exit
+246,到,dào,arrive
+247,走,zǒu,walk
+248,玩,wán,play
+249,笑,xiào,laugh
+250,哭,kū,cry
+251,问,wèn,ask
+252,回答,huídá,answer
+253,说话,shuōhuà,speak
+254,着,zhe,(aspect particle)
+255,过,guò,(experience particle)
+256,等,děng,wait
+257,拿,ná,take
+258,找,zhǎo,look for
+259,坐,zuò,sit
+260,站,zhàn,stand
+261,住,zhù,live
+262,用,yòng,use
+263,洗,xǐ,wash
+264,开始,kāishǐ,begin
+265,结束,jiéshù,end
+266,阿姨,āyí,aunt
+267,啊,a,ah
+268,矮,ǎi,short
+269,爱好,àihào,hobby
+270,安静,ānjìng,quiet
+271,把,bǎ,hold
+272,班,bān,class
+273,搬,bān,move
+274,半,bàn,half
+275,办法,bànfǎ,method
+276,办公室,bàngōngshì,office
+277,帮忙,bāngmáng,help
+278,包,bāo,bag
+279,饱,bǎo,full
+280,北方,běifāng,north
+281,被,bèi,by (passive marker)
+282,鼻子,bízi,nose
+283,比较,bǐjiào,compare
+284,比赛,bǐsài,competition
+285,笔记本,bǐjìběn,notebook
+286,必须,bìxū,must
+287,变化,biànhuà,change
+288,别人,biéren,others
+289,冰箱,bīngxiāng,refrigerator
+290,菜单,càidān,menu
+291,参加,cānjiā,participate
+292,草,cǎo,grass
+293,层,céng,layer
+294,差,chà,bad
+295,超市,chāoshì,supermarket
+296,衬衫,chènshān,shirt
+297,成绩,chéngjì,grade
+298,城市,chéngshì,city
+299,迟到,chídào,be late
+300,除了,chúle,except
+301,船,chuán,boat
+302,春,chūn,spring
+303,词典,cídiǎn,dictionary
+304,聪明,cōngming,smart
+305,打扫,dǎsǎo,clean
+306,打算,dǎsuàn,plan
+307,带,dài,bring
+308,担心,dānxīn,worry
+309,蛋糕,dàngāo,cake
+310,当然,dāngrán,of course
+311,灯,dēng,light
+312,地方,dìfang,place
+313,地铁,dìtiě,subway
+314,地图,dìtú,map
+315,电梯,diàntī,elevator
+316,电子邮件,diànzǐ yóujiàn,email
+317,东,dōng,east
+318,冬,dōng,winter
+319,动物,dòngwù,animal
+320,短,duǎn,short
+321,锻炼,duànliàn,exercise
+322,段,duàn,section
+323,多么,duōme,how
+324,饿,è,hungry
+325,而且,érqiě,moreover
+326,发,fā,send
+327,发现,fāxiàn,discover
+328,方便,fāngbiàn,convenient
+329,放,fàng,put
+330,放心,fàngxīn,rest assured
+331,分,fēn,minute
+332,附近,fùjìn,nearby
+333,复习,fùxí,review
+334,干净,gānjìng,clean
+335,感冒,gǎnmào,cold (illness)
+336,感兴趣,gǎn xìngqù,be interested
+337,刚才,gāngcái,just now
+338,个子,gèzi,height
+339,根据,gēnjù,according to
+340,跟,gēn,with
+341,更,gèng,more
+342,公斤,gōngjīn,kilogram
+343,公园,gōngyuán,park
+344,故事,gùshi,story
+345,刮风,guā fēng,windy
+346,关,guān,close
+347,关系,guānxì,relationship
+348,关心,guānxīn,care
+349,关于,guānyú,about
+350,国家,guójiā,country
+351,果汁,guǒzhī,juice
+352,过去,guòqù,past
+353,还是,háishì,or
+354,害怕,hàipà,afraid
+355,航班,hángbān,flight
+356,黑板,hēibǎn,blackboard
+357,后来,hòulái,later
+358,护照,hùzhào,passport
+359,花,huā,flower
+360,画,huà,draw
+361,坏,huài,bad
+362,环境,huánjìng,environment
+363,换,huàn,change
+364,黄,huáng,yellow
+365,会议,huìyì,meeting
+366,或者,huòzhě,or
+367,几乎,jīhū,almost
+368,机会,jīhuì,opportunity
+369,极了,jíle,extremely
+370,记得,jìde,remember
+371,季节,jìjié,season
+372,检查,jiǎnchá,inspect
+373,简单,jiǎndān,simple
+374,见面,jiànmiàn,meet
+375,健康,jiànkāng,healthy
+376,讲,jiǎng,speak
+377,教,jiāo,teach
+378,角,jiǎo,corner
+379,脚,jiǎo,foot
+380,接,jiē,receive
+381,街道,jiēdào,street
+382,节目,jiémù,program
+383,节日,jiérì,festival
+384,结婚,jiéhūn,marry
+385,结束,jiéshù,finish
+386,解决,jiějué,solve
+387,借,jiè,borrow
+388,经常,jīngcháng,often
+389,经过,jīngguò,pass
+390,经理,jīnglǐ,manager
+391,久,jiǔ,long (time)
+392,旧,jiù,old
+393,举行,jǔxíng,hold (an event)
+394,句子,jùzi,sentence
+395,决定,juédìng,decide
+396,渴,kě,thirsty
+397,可爱,kě'ài,cute
+398,刻,kè,quarter (hour)
+399,客人,kèrén,guest
+400,空调,kōngtiáo,air conditioner
+401,口,kǒu,mouth
+402,哭,kū,cry
+403,裤子,kùzi,pants
+404,筷子,kuàizi,chopsticks
+405,蓝,lán,blue
+406,老,lǎo,old
+407,离开,líkāi,leave
+408,礼物,lǐwù,gift
+409,历史,lìshǐ,history
+410,脸,liǎn,face
+411,练习,liànxí,practice
+412,辆,liàng,measure word for vehicles
+413,了解,liǎojiě,understand
+414,邻居,línjū,neighbor
+415,留学,liúxué,study abroad
+416,楼,lóu,building
+417,绿,lǜ,green
+418,马,mǎ,horse
+419,马上,mǎshàng,immediately
+420,满意,mǎnyì,satisfied
+421,帽子,màozi,hat
+422,米,mǐ,meter
+423,面包,miànbāo,bread
+424,面条,miàntiáo,noodles
+425,明白,míngbai,understand
+426,拿,ná,take
+427,奶奶,nǎinai,grandmother
+428,南,nán,south
+429,难,nán,difficult
+430,难过,nánguò,sad
+431,年级,niánjí,grade
+432,年轻,niánqīng,young
+433,鸟,niǎo,bird
+434,努力,nǔlì,hardworking
+435,爬山,pá shān,climb mountain
+436,盘子,pánzi,plate
+437,胖,pàng,fat
+438,皮鞋,píxié,leather shoes
+439,啤酒,píjiǔ,beer
+440,骑,qí,ride
+441,奇怪,qíguài,strange
+442,其实,qíshí,actually
+443,其他,qítā,others
+444,起飞,qǐfēi,take off
+445,清楚,qīngchu,clear
+446,请假,qǐngjià,ask for leave
+447,秋,qiū,autumn
+448,裙子,qúnzi,skirt
+449,然后,ránhòu,then
+450,热情,rèqíng,enthusiastic
+451,认为,rènwéi,think
+452,认真,rènzhēn,serious
+453,容易,róngyì,easy
+454,如果,rúguǒ,if
+455,伞,sǎn,umbrella
+456,上网,shàngwǎng,surf the internet
+457,声音,shēngyīn,sound
+458,生气,shēngqì,get angry
+459,世界,shìjiè,world
+460,事情,shìqing,thing
+461,瘦,shòu,thin
+462,叔叔,shūshu,uncle
+463,舒服,shūfu,comfortable
+464,树,shù,tree
+465,数学,shùxué,math
+466,刷牙,shuā yá,brush teeth
+467,双,shuāng,pair
+468,水平,shuǐpíng,level
+469,司机,sījī,driver
+470,太阳,tàiyáng,sun
+
+
+

@@ -9,7 +9,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-
 public class FlashCards{
 
     public static void runFlashCards(){
@@ -52,6 +51,7 @@ public class FlashCards{
         }
     }
 
+    }
 
 
 
@@ -65,7 +65,8 @@ public class FlashCards{
 
 
 
-    static class Flashcard {
+
+    class Flashcard {
         String id;
         String chinese;
         String pinyin;
@@ -80,7 +81,6 @@ public class FlashCards{
     }
 
 
-}
 
 
 
