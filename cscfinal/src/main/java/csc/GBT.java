@@ -14,11 +14,11 @@ import com.azure.core.credential.AzureKeyCredential;
 
 public final class GBT {
 
-    public static int HSK;
     public static String input;
+    public static String t;
     public static void gbt() {
 
-        String key = ("");
+        String key = ("api key");
         String endpoint = "https://models.inference.ai.azure.com";
         String model = "gpt-4o";
 
@@ -36,8 +36,10 @@ public final class GBT {
         chatCompletionsOptions.setModel(model);
 
         ChatCompletions completions = client.complete(chatCompletionsOptions);
+        t = completions.getChoice().getMessage().getContent();
 
         System.out.printf("%s.%n", completions.getChoice().getMessage().getContent());
+
 
 
 

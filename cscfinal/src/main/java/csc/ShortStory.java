@@ -4,8 +4,6 @@ import java.util.Scanner;
 public class ShortStory {
     public static void MakeShortStory(){
         int HSK;
-        boolean piyin;
-        boolean ET;
         System.out.println("Enter the HSK level of the story you want to read.");
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
@@ -14,7 +12,7 @@ public class ShortStory {
 
             if (HSK >= 1 && HSK <= 6) {
                 System.out.println("Loading short story...");
-                GBT.input = "Please create a short story in Chinese with piyin and English Translation for HSK level " + HSK + "Please have the English translation right under the piyin. do not have anything after the story.";
+                GBT.input = "Please create a RANDOM short story in Chinese with piyin and English Translation for HSK level " + HSK + "Please have the English translation right under the piyin. do not have anything after the story.";
                 GBT.gbt();
 
 
@@ -29,7 +27,9 @@ public class ShortStory {
         } catch (NumberFormatException e) {
             System.out.println("Please input a valid HSK level (1-6)");
         }
-
+        System.out.println("\n\nEnter a character to return to the menu.");
+        String t = scanner.nextLine();
+        Main.menu();
 
     }
 }

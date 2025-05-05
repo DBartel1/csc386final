@@ -44,6 +44,7 @@ public class FlashCards{
             System.out.println("Correct!");
             runFlashCards();
         } else if (userGuess.equals("e")){
+            Main.menu();
         }
         else {
             System.out.println("Wrong. The correct answer is: " + selected.english);
